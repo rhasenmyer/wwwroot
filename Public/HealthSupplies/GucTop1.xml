@@ -1,0 +1,21 @@
+<GenericUC>
+  <Title></Title>
+  <Width>190px</Width>
+  <Height>300px</Height>
+  <Margin>5px 5px 5px 5px</Margin>
+  <BodyHtml>
+<br/>
+<script type="text/javascript"><!--
+amazon_ad_tag="eohe-20"; 
+amazon_ad_width="160"; 
+amazon_ad_height="600"; 
+amazon_color_background="EBE8C0"; 
+amazon_color_border="15174C"; 
+amazon_color_logo="FFFFFF"; 
+amazon_color_text="38352A"; 
+amazon_color_link="33578B"; 
+amazon_ad_logo="hide"; 
+amazon_ad_title="EosHealth Store"; //--></script>
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/asw.js"></script>  </BodyHtml>
+  <Border>0</Border>
+</GenericUC>
